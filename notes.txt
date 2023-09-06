@@ -1,0 +1,7 @@
+
+
+getElementById
+=> the method is applicable only if you have id attribute in HTML element.
+=> It returns HTML element 
+
+dom to create tags using function for dynamic purpose.
